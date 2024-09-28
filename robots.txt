@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://utsequiv.github.io/sitemap.utsequiv.gz
+Sitemap: https://utsequiv.github.io/app/sitemap.utsequiv.gz
+Sitemap: https://utsequiv.github.io/assets/sitemap.utsequiv.gz
+Sitemap: https://utsequiv.github.io/css/sitemap.utsequiv.gz
+Sitemap: https://utsequiv.github.io/data/sitemap.utsequiv.gz
+Sitemap: https://utsequiv.github.io/includes/sitemap.utsequiv.gz
+Sitemap: https://utsequiv.github.io/item/sitemap.utsequiv.gz
+Sitemap: https://utsequiv.github.io/src/sitemap.utsequiv.gz
